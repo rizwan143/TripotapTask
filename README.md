@@ -15,7 +15,7 @@ User Notifications – Local alerts
 🚀 Getting Started
 Clone the repository:
 sh
-git clone https://github.com/your-repo/tripotap.git
+git clone [https://github.com/your-repo](https://github.com/rizwan143/TripotapTask)
 cd tripotap
 Install dependencies using CocoaPods or SPM.
 Add your Google Maps API key in AppDelegate.swift.
