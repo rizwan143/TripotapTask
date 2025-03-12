@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+		<string>remote-notification</string>
+	</array>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to show AR objects at real-world locations.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>We need your location to track AR objects in real-world locations.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>We need your location to track you in the background.</string>
+    <key>NSUserNotificationUsageDescription</key>
+    <string>We need permission to send you notifications for updates.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>We need access to your camera for AR experiences.</string>
+
+</dict>
+</plist>
